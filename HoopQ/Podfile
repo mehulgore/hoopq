@@ -1,0 +1,2 @@
+target 'HoopQ'
+pod 'Firebase/Auth'
